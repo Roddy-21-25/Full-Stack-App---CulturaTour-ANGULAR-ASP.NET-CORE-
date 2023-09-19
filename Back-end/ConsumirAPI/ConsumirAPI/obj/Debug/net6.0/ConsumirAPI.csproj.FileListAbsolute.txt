@@ -1,0 +1,103 @@
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\ConsumirAPI.exe
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\ConsumirAPI.deps.json
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\ConsumirAPI.runtimeconfig.json
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\ConsumirAPI.dll
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\ConsumirAPI.pdb
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\ConsumirAPI.csproj.AssemblyReference.cache
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\ConsumirAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\ConsumirAPI.AssemblyInfoInputs.cache
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\ConsumirAPI.AssemblyInfo.cs
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\ConsumirAPI.csproj.CoreCompileInputs.cache
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\ConsumirAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\ConsumirAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\staticwebassets\msbuild.ConsumirAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ConsumirAPI.props
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ConsumirAPI.props
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ConsumirAPI.props
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\scopedcss\bundle\ConsumirAPI.styles.css
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\ConsumirAPI.csproj.CopyComplete
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\ConsumirAPI.dll
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\refint\ConsumirAPI.dll
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\ConsumirAPI.pdb
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\ConsumirAPI.genruntimeconfig.cache
+C:\Users\roddy\Desktop\Apis Request\Consumir una API\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\ref\ConsumirAPI.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\ConsumirAPI.exe
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\ConsumirAPI.deps.json
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\ConsumirAPI.runtimeconfig.json
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\ConsumirAPI.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\ConsumirAPI.pdb
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\ConsumirAPI.csproj.AssemblyReference.cache
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\ConsumirAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\ConsumirAPI.AssemblyInfoInputs.cache
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\ConsumirAPI.AssemblyInfo.cs
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\ConsumirAPI.csproj.CoreCompileInputs.cache
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\ConsumirAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\ConsumirAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\staticwebassets\msbuild.ConsumirAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ConsumirAPI.props
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ConsumirAPI.props
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ConsumirAPI.props
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\scopedcss\bundle\ConsumirAPI.styles.css
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\ConsumirAPI.csproj.CopyComplete
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\ConsumirAPI.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\refint\ConsumirAPI.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\ConsumirAPI.pdb
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\ConsumirAPI.genruntimeconfig.cache
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\ref\ConsumirAPI.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\ConsumirAPI.xml
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\obj\Debug\net6.0\ConsumirAPI.xml
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\roddy\Desktop\Apis Request\CulturaTour\Back-end\ConsumirAPI\ConsumirAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
